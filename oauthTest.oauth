@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oauthApplication id="1">
+  <name>oauthTest</name>
+  <serviceProvider>Google</serviceProvider>
+  <consumerKey>1</consumerKey>
+  <consumerSecret>fqMcAVIhrp0FKFOqP80XeGYKpZpyNOkiRTwZ8pYCWz6yHOwyjNrAyposiX/yPKCFwjB4FH3vbz0EQbS0vGiGlT/TCLcwLflItqRFefydzL27a5K23/s5na+haoUAlxQpcsmN6nooTbEgH4TpYHPiINlKHAe0jJczSCApZyy9vWs=:bN5SuEgU24IGPEtd:dZVqa9piYMy6URteFUMOeRo=</consumerSecret>
+  <callbackURL>http://mc11500ws2022:8080/mc/OAuthCallback</callbackURL>
+  <scope/>
+  <project id="2"/>
+  <modifiedBy>admin</modifiedBy>
+  <revisionNumber>549bd69b9f1ef482d557ce7ecef757bde01ee528</revisionNumber>
+  <commitMessage/>
+  <lastModified id="3">2024-02-22 07:07:15.0 UTC</lastModified>
+  <serializationVersion>1</serializationVersion>
+</oauthApplication>
