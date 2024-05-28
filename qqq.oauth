@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oauthApplication id="1">
+  <name>qqq</name>
+  <serviceProvider>Google</serviceProvider>
+  <consumerKey>qq</consumerKey>
+  <consumerSecret>kfmstBR7h0m5ROVCDulboN+Ar4aAB9JwETDTN/xuXuJ1NL8ps9ZoR5FKNJpMBIgpmow4RSV0UIzy/ozAsziSv2KTSmkCBO88QJiMDKM6t0U51fGcD7Sajl9C5CVutEZtH97vAU//6BW5fJfCgxR3ayubifAqxgiTFK9DpKFuNfY=:IGNtT79WhEYn0cIW:rtygxEob3hkR8x14NkdwoLuc</consumerSecret>
+  <callbackURL>http://mc11500ws2022:8080/mc/OAuthCallback</callbackURL>
+  <scope/>
+  <project id="2"/>
+  <modifiedBy>admin</modifiedBy>
+  <revisionNumber>4e96ed4443c1ad7a6c9eb91c2a6dfbcdf0add729</revisionNumber>
+  <commitMessage/>
+  <lastModified id="3">2024-02-22 07:06:52.0 UTC</lastModified>
+  <serializationVersion>1</serializationVersion>
+</oauthApplication>
